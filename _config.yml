@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/dev-notebook/dev-notebook.github.io/blob/bdc3b74fd2f298e8a20de2eec1c684c4767ca147/assets/img/avataaars.png
+avatar: https://raw.githubusercontent.com/dev-notebook/dev-notebook.github.io/bdc3b74fd2f298e8a20de2eec1c684c4767ca147/assets/img/avataaars.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
